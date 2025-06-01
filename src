@@ -1,1 +1,3 @@
-
+src/moore_fsm.v
+src/mealy_fsm.v
+src/top_maquina.v 
